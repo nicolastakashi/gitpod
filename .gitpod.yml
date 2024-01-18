@@ -1,0 +1,4 @@
+ports:
+  # Prometheus server port.
+  - port: 9090
+    onOpen: open-browser
